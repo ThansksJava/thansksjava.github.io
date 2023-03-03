@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>不二家 | 404 Page not found</title>
+    <meta name="description" content=" ">
+    <link rel="canonical" href="https://thansksjava.github.io/404.html" />
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <meta property="og:title" content="404 Page not found" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://thansksjava.github.io/404.html" />
+
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="404 Page not found"/>
+<meta name="twitter:description" content=""/>
+
+    
+        
+    
+    <link rel="stylesheet" href='/css/style.css' />
+    <link rel="stylesheet" href='/css/search.css' />
+    <link rel="stylesheet" href='/css/md_nb.css' />
+    <link rel="stylesheet" href='/css/list.css' />
+    <link rel="stylesheet" href='/css/terms.css' />
+    <link rel="stylesheet" href='/css/taxonomy.css' />
+    <link rel="stylesheet" href='/css/home.css' />
+    <link rel="stylesheet" href='/css/syntax.css' />
+    
+    <link rel="stylesheet" href='/css/shortcode.css' />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+    <link rel="stylesheet" href='/css/_custom.css' />
+    <style>
+        
+            body::after { display: none; }
+         
+    </style>
+    
+    
+    <script>
+    MathJax = {
+      tex: {
+        inlineMath: [["\\(", "\\)"]],
+      },
+      displayMath: [
+        ["$$", "$$"],
+        ["\[\[", "\]\]"],
+      ],
+      svg: {
+        fontCache: "global",
+      },
+    };
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+></script>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script src="/js/lazysizes.min.js" async=""></script>
+    <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="/js/search.js"></script>
+    <script src="/js/md_nb.js"></script>
+    
+    <script src="/js/yes.js"></script>
+    
+    
+        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    
+</head><body style="font-family: ,'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Heiti SC', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
+        <div class="loading">
+            <div class="loading-bg"></div>
+            <div class="loading-long">
+                <div class="loading-short"></div>
+            </div>
+        </div>
+
+        
+
+        <div id="content">
+
+    <main>
+        <div class="circle-404">
+            <div class="root-404">
+                <div class="c404"></div>
+                <div class="titleroot-404">
+                    <div class="title-404">4</div>
+                    <div class="title-404">4</div>
+                </div>
+            </div>
+        <div class="back">
+            <div>Sorry, the page seems to be lost...</div>
+            <a href='
+                        /
+                    ' class="efct-button">Back to Home</a>
+        </div>
+        </div>
+    </main>
+
+        </div>
+
+        
+        
+        <div class="search-root">
+    <div class="search-zz"></div>
+    <div class="search">
+        <div class="sheader anniu">
+            <div class="sh-l">
+                <input type="text" placeholder='Enter a KeyWord' id="search-key">
+                <span class="sclear"><i class="fa fa-close"></i></span>
+            </div>
+            <div class="sh-r">
+                <button>search</button>
+            </div>
+        </div>
+        <div class="sbody">
+            <div class="sbody-1">
+                <div class="stip"></div>
+            </div>
+        </div>
+    </div>
+</div>
+        
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+
+
+<script type="text/javascript">
+    var mode_custom = "auto";
+    var postsCount =  3 ;
+    var arrPosts = [{"link":"https://thansksjava.github.io/posts/ssh%E5%91%BD%E4%BB%A4%E9%80%9A%E8%BF%87%E8%B7%B3%E6%9D%BF%E6%9C%BA%E7%99%BB%E5%BD%95%E6%9C%8D%E5%8A%A1%E5%99%A8/","plain":"  命令\n1  ssh username@目标机器ip -p 22 -o ProxyCommand=\u0026#39;ssh -p 22 username@跳板机ip -W %h:%p\u0026#39;     配置文件\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29  Host tiaoban #任意名字，随便使用 HostName 192.168.1.1 #这个是跳板机的IP，支持域名 Port 22 #跳板机端口 User username_tiaoban #跳板机用户 Host nginx #同样，任意名字，随便起 HostName 192.168.1.2 #真正登陆的服务器，不支持域名必须IP地址 Port 22 #服务器的端口 User username #服务器的用户 ProxyCommand ssh username_tiaoban@tiaoban -W %h:%p Host 10.10.0.* #可以用*通配符 Port 22 #服务器的端口 User username #服务器的用户 ProxyCommand ssh username_tiaoban@tiaoban -W %h:%p   配置好后， 直接 ssh nginx 就可以登录 192.168.1.2 这台跳板机后面的服务器。 也可以用 ssh username@10.10.0.xx 来登录10.10.0.27, 10.10.10.33等机器。\n  原文链接\nhttps://blog.csdn.net/diamondxiao/article/details/52474104\n  ","pubDate":"2023-03-02","title":"ssh命令通过跳板机登录服务器"},{"link":"https://thansksjava.github.io/posts/%E6%8C%87%E5%AE%9Aspringboot%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BD%8D%E7%BD%AE/","plain":"","pubDate":"2023-02-28","title":"指定SpringBoot配置文件位置"},{"link":"https://thansksjava.github.io/posts/2022-reading-summary/","plain":"2022读书总结 今年在听樊登读书的时候，把听过的感觉想读的读了一些，所以今年可算是读了一些书\n  书籍列表\n  社会性动物\n  贪婪的多巴胺\n  法治的细节，圆圈正义\n  思考快与慢\n  额尔古纳河右岸\n  哲学与人生\n  蛤蟆先生去看心理医生（PS: 天呐，原来是hama, 我一直打hamo怪不得总是打不出来，我错怪输入法了 ==！）\n  红星照耀中国\n  减压脑科学\n  2023 2023继续读吧，每天能翻几页也好\n","pubDate":"2023-02-26","title":"2022 Reading Summary"}];
+    var search_theEnd = "The End";
+    var search_nothing = "Nothing was found";
+    var search_found = "Found";
+    var search_result = "result";
+    var search_results = "results";
+</script>
+
+
+
+
+
+    </body>
+</html>
+

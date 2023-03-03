@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>不二家</title>
+    <link>https://thansksjava.github.io/</link>
+    <description>Recent content on 不二家</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2023 17:50:54 +0800</lastBuildDate>
+    
+	<atom:link href="https://thansksjava.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ssh命令通过跳板机登录服务器</title>
+      <link>https://thansksjava.github.io/posts/ssh%E5%91%BD%E4%BB%A4%E9%80%9A%E8%BF%87%E8%B7%B3%E6%9D%BF%E6%9C%BA%E7%99%BB%E5%BD%95%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+      <pubDate>Thu, 02 Mar 2023 17:50:54 +0800</pubDate>
+      
+      <guid>https://thansksjava.github.io/posts/ssh%E5%91%BD%E4%BB%A4%E9%80%9A%E8%BF%87%E8%B7%B3%E6%9D%BF%E6%9C%BA%E7%99%BB%E5%BD%95%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
+      <description>SSH跳板机</description>
+    </item>
+    
+    <item>
+      <title>指定SpringBoot配置文件位置</title>
+      <link>https://thansksjava.github.io/posts/%E6%8C%87%E5%AE%9Aspringboot%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BD%8D%E7%BD%AE/</link>
+      <pubDate>Tue, 28 Feb 2023 11:35:09 +0800</pubDate>
+      
+      <guid>https://thansksjava.github.io/posts/%E6%8C%87%E5%AE%9Aspringboot%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BD%8D%E7%BD%AE/</guid>
+      <description>这是摘要</description>
+    </item>
+    
+    <item>
+      <title>2022 Reading Summary</title>
+      <link>https://thansksjava.github.io/posts/2022-reading-summary/</link>
+      <pubDate>Sun, 26 Feb 2023 13:30:56 +0800</pubDate>
+      
+      <guid>https://thansksjava.github.io/posts/2022-reading-summary/</guid>
+      <description>书籍</description>
+    </item>
+    
+  </channel>
+</rss>

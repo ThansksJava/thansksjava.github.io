@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>开发技巧 on 不二家</title>
+    <link>https://thansksjava.github.io/series/%E5%BC%80%E5%8F%91%E6%8A%80%E5%B7%A7/</link>
+    <description>Recent content in 开发技巧 on 不二家</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2023 17:50:54 +0800</lastBuildDate>
+    
+	<atom:link href="https://thansksjava.github.io/series/%E5%BC%80%E5%8F%91%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ssh命令通过跳板机登录服务器</title>
+      <link>https://thansksjava.github.io/posts/ssh%E5%91%BD%E4%BB%A4%E9%80%9A%E8%BF%87%E8%B7%B3%E6%9D%BF%E6%9C%BA%E7%99%BB%E5%BD%95%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+      <pubDate>Thu, 02 Mar 2023 17:50:54 +0800</pubDate>
+      
+      <guid>https://thansksjava.github.io/posts/ssh%E5%91%BD%E4%BB%A4%E9%80%9A%E8%BF%87%E8%B7%B3%E6%9D%BF%E6%9C%BA%E7%99%BB%E5%BD%95%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
+      <description>SSH跳板机</description>
+    </item>
+    
+  </channel>
+</rss>

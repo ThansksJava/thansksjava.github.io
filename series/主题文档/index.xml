@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>主题文档 on 不二家</title>
+    <link>https://thansksjava.github.io/series/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3/</link>
+    <description>Recent content in 主题文档 on 不二家</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Feb 2023 11:35:09 +0800</lastBuildDate>
+    
+	<atom:link href="https://thansksjava.github.io/series/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>指定SpringBoot配置文件位置</title>
+      <link>https://thansksjava.github.io/posts/%E6%8C%87%E5%AE%9Aspringboot%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BD%8D%E7%BD%AE/</link>
+      <pubDate>Tue, 28 Feb 2023 11:35:09 +0800</pubDate>
+      
+      <guid>https://thansksjava.github.io/posts/%E6%8C%87%E5%AE%9Aspringboot%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BD%8D%E7%BD%AE/</guid>
+      <description>这是摘要</description>
+    </item>
+    
+  </channel>
+</rss>

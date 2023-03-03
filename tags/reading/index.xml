@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading on 不二家</title>
+    <link>https://thansksjava.github.io/tags/reading/</link>
+    <description>Recent content in Reading on 不二家</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Feb 2023 13:30:56 +0800</lastBuildDate>
+    
+	<atom:link href="https://thansksjava.github.io/tags/reading/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2022 Reading Summary</title>
+      <link>https://thansksjava.github.io/posts/2022-reading-summary/</link>
+      <pubDate>Sun, 26 Feb 2023 13:30:56 +0800</pubDate>
+      
+      <guid>https://thansksjava.github.io/posts/2022-reading-summary/</guid>
+      <description>书籍</description>
+    </item>
+    
+  </channel>
+</rss>
