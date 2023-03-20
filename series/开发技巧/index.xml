@@ -20,5 +20,14 @@
       <description>SSH跳板机</description>
     </item>
     
+    <item>
+      <title>指定SpringBoot配置文件位置</title>
+      <link>https://thansksjava.github.io/posts/%E6%8C%87%E5%AE%9Aspringboot%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BD%8D%E7%BD%AE/</link>
+      <pubDate>Tue, 28 Feb 2023 11:35:09 +0800</pubDate>
+      
+      <guid>https://thansksjava.github.io/posts/%E6%8C%87%E5%AE%9Aspringboot%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BD%8D%E7%BD%AE/</guid>
+      <description>这是摘要</description>
+    </item>
+    
   </channel>
 </rss>
